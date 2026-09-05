@@ -18,6 +18,9 @@ A modern, robust, and secure Class Attendance System built with a Python backend
 ![Admin - Student Management](assets/03_admin_students.png)
 ![Admin - Teacher Management](assets/04_admin_teachers.png)
 ![Teacher - Attendance History](assets/05_teacher_history.png)
+![Student - Leave Requests](assets/06_student_leave.png)
+![Student - Check-In](assets/07_student_checkin.png)
+![Student - Class Dashboard](assets/08_student_class.png)
 
 ## Tech Stack
 - **Backend:** Python, FastAPI, Motor (Async MongoDB), Beanie ODM, Passlib (bcrypt), PyJWT, Pytest.
