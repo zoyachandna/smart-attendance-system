@@ -13,7 +13,6 @@ A modern, robust, and secure Class Attendance System built with a Python backend
 - **Rich Aesthetics:** A premium, dark-mode-focused UI built from scratch using glassmorphism, micro-animations, and modern CSS variables.
 
 ## Screenshots
-![Login Page](assets/01_login.png)
 ![Create Account](assets/02_create_account.png)
 ![Admin - Student Management](assets/03_admin_students.png)
 ![Admin - Teacher Management](assets/04_admin_teachers.png)
