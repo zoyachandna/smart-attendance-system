@@ -12,6 +12,10 @@ A modern, robust, and secure Class Attendance System built with a Python backend
 - **Reporting & Analytics:** One-click CSV exports of attendance data for Admins.
 - **Rich Aesthetics:** A premium, dark-mode-focused UI built from scratch using glassmorphism, micro-animations, and modern CSS variables.
 
+## Screenshots
+![Admin Dashboard](assets/admin_dashboard.jpg)
+![Teacher Dashboard](assets/teacher_dashboard.jpg)
+
 ## Tech Stack
 - **Backend:** Python, FastAPI, Motor (Async MongoDB), Beanie ODM, Passlib (bcrypt), PyJWT, Pytest.
 - **Frontend:** React, Vite, React Router, Axios, Lucide-React.
